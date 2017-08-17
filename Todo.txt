@@ -1,0 +1,6 @@
+1) - Criar avatar simples no blender
+2) - Animar 6 gestos para POC (e um video para qualquer palavra não reconhecida)
+3) - Criar POC simples que apenas parsea cada palavra e tenta montar a sequencia de animacoes.
+
+
+
